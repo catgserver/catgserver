@@ -5,11 +5,12 @@ Me llamo Carlos Tello 👋, soy estudiante en Licenciatura de Redes Informática
 - Administración de Servidores
 - Infraestructura de Centro de Datos
 - Sistemas Operativos Linux
-- Microsoft Azure - Cloud computing
-- Automatización de sistemas
-- Monitoreos
+- Cloud computing (Azure)
+- Ciberseguridad
+- Monitoreo y alta disponibilidad
 - Virtualización
 - Cableado estructurado
+- Blockchain y tecnologías descentralizadas
 
 
   
