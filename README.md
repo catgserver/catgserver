@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola! Gracias por visitar mi perfil en Github!
+Me llamo Carlos Tello 👋, soy estudiante en Licenciatura de Redes Informáticas en la Universidad Tecnológica de Panamá pero tengo experiencia en ventas y coordinación de operaciones en el área de Servicio Técnico, me gusta la administración de plataformas digitales como las Ecommerce y sistemas ERP.
 
-<!--
-**catgserver/catgserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mis áreas de alto interés:
+- Administración de Servidores
+- Infraestructura de Centro de Datos
+- Sistemas Operativos Linux
+- Microsoft Azure - Cloud computing
+- Automatización de sistemas
+- Monitoreos
+- Virtualización
+- Cableado estructurado
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
